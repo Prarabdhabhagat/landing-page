@@ -1,0 +1,12 @@
+.HomeWrapper{
+    max-width: 1600px;
+    margin: 0px 80px;
+    display: flex;
+}
+
+.NavbarWrapper{
+    max-width: 1600px;
+    margin: 0px 80px;
+    display: flex;
+    justify-content: center;
+}
